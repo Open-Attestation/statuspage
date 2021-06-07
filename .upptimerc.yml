@@ -9,7 +9,7 @@ sites:
 
 status-website:
   cname: status.openattestation.com
-  title: OpenAttestation Status Page
+  name: OpenAttestation Status Page
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
