@@ -4,7 +4,7 @@
     "url": "https://www.openattestation.com",
     "icon": "https://favicons.githubusercontent.com/www.openattestation.com",
     "slug": "open-attestation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 222,
     "timeYear": 235,
     "dailyMinutesDown": {
+      "2022-02-26": 0,
       "2021-10-15": 4
     }
   }
