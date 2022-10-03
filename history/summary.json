@@ -2,7 +2,7 @@
   {
     "name": "OpenAttestation",
     "url": "https://www.openattestation.com",
-    "icon": "https://favicons.githubusercontent.com/www.openattestation.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.openattestation.com.ico",
     "slug": "open-attestation",
     "status": "up",
     "uptime": "99.99%",
@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 246,
-    "timeDay": 263,
-    "timeWeek": 240,
+    "timeDay": 235,
+    "timeWeek": 249,
     "timeMonth": 225,
-    "timeYear": 237,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2022-08-27": 9,
       "2022-08-16": 5,
