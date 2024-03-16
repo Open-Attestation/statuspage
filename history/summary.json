@@ -4,19 +4,19 @@
     "url": "https://www.openattestation.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.openattestation.com.ico",
     "slug": "open-attestation",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 220,
-    "timeWeek": 172,
+    "timeDay": 191,
+    "timeWeek": 168,
     "timeMonth": 154,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2024-03-16": 5
+      "2024-03-16": 11
     }
   }
 ]
